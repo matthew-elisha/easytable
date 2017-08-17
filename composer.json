@@ -1,6 +1,12 @@
 {
     "name": "matthew-elisha/fpdf-easytable",
+    "description": "FPDF EasyTable",
+    "keywords": ["PDF","FPDF","PHP TO PDF"],
+    "license": "Unlicence",
     "require": {
         "php": ">=5.6.0",
+    },
+    "autoload": {
+        "classmap": ["easyTable.php","exfpdf.php"]
     }
 }
