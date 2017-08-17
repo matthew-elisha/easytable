@@ -4,7 +4,7 @@
     "keywords": ["PDF","FPDF","PHP TO PDF"],
     "license": "Unlicence",
     "require": {
-        "php": ">=5.6.0",
+        "php": ">=5.6.0"
     },
     "autoload": {
         "classmap": ["easyTable.php","exfpdf.php"]
