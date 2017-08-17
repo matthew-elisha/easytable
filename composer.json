@@ -1,0 +1,7 @@
+{
+    "name": "matthew-elisha/fpdf-easytable",
+    "require": {
+        "php": ">=5.6.0",
+        "setasign/fpdf": "1.8.1"
+    }
+}
